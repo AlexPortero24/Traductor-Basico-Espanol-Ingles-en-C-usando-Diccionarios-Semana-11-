@@ -1,0 +1,14 @@
+C:\Users\David\Documents\ProyectosC#\TraductorApp\bin\Debug\net10.0\TraductorApp.exe
+C:\Users\David\Documents\ProyectosC#\TraductorApp\bin\Debug\net10.0\TraductorApp.deps.json
+C:\Users\David\Documents\ProyectosC#\TraductorApp\bin\Debug\net10.0\TraductorApp.runtimeconfig.json
+C:\Users\David\Documents\ProyectosC#\TraductorApp\bin\Debug\net10.0\TraductorApp.dll
+C:\Users\David\Documents\ProyectosC#\TraductorApp\bin\Debug\net10.0\TraductorApp.pdb
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\TraductorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\TraductorApp.AssemblyInfoInputs.cache
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\TraductorApp.AssemblyInfo.cs
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\TraductorApp.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\TraductorApp.dll
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\refint\TraductorApp.dll
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\TraductorApp.pdb
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\TraductorApp.genruntimeconfig.cache
+C:\Users\David\Documents\ProyectosC#\TraductorApp\obj\Debug\net10.0\ref\TraductorApp.dll
